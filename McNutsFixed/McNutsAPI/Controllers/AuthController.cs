@@ -12,11 +12,11 @@ namespace McNutsAPI.Controllers
     [ApiController]
     public class AuthController : ControllerBase
     {
-        private IUserService userService;
+        private readonly IUserService _userService;
 
         public AuthController(IUserService userService)
         {
-            this.userService = userService;
+            _userService = userService;
         }
 
         // /api/auth/userx  
@@ -25,7 +25,7 @@ namespace McNutsAPI.Controllers
         {
             if (ModelState.IsValid)
             {
-                var result = await userService.RegisterUserAsync(model);
+                var result = await _userService.RegisterUserAsync(model);
 
                 if (result.IsSuccess)
                     return Ok(result); // Status Code: 200 
@@ -41,7 +41,7 @@ namespace McNutsAPI.Controllers
         {
             if (ModelState.IsValid)
             {
-                var result = await userService.CreateRoleAsync(model);
+                var result = await _userService.CreateRoleAsync(model);
 
                 if (result.IsSuccess)
                 {
@@ -58,7 +58,7 @@ namespace McNutsAPI.Controllers
         {
             if (ModelState.IsValid)
             {
-                var result = await userService.CreateUserRoleAsync(model);
+                var result = await _userService.CreateUserRoleAsync(model);
 
                 if (result.IsSuccess)
                 {
@@ -75,7 +75,7 @@ namespace McNutsAPI.Controllers
         {
             if (ModelState.IsValid)
             {
-                var result = await userService.LoginUserAsync(model);
+                var result = await _userService.LoginUserAsync(model);
 
                 if (result.IsSuccess)
                 {
