@@ -13,8 +13,8 @@ namespace McNutsAPI.Services
     public class PeanutService : IPeanutService
     {
         private IPeanutRepository _peanutRepository;
-        private IMapper _mapper;
-        private HashSet<string> _allowedOrderByValues = new HashSet<string>()
+        private readonly IMapper _mapper;
+        private readonly HashSet<string> _allowedOrderByValues = new HashSet<string>()
         {
             "id",
             "name",
@@ -102,7 +102,7 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new Exception("DataBase Error");
+                throw new ArgumentNullException("DataBase Error");
             }
             return _mapper.Map<PeanutModel>(updatePeanut);
         }
