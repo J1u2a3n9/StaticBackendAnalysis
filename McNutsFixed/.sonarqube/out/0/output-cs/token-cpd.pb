@@ -7670,7 +7670,7 @@ ExpireDate #
 ;. /
 }0 1
 } 
-} ®
+} ¼
 
 QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.cs
 	namespace
@@ -7682,20 +7682,21 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
  
 { 
 public 
-
-class 
-Program 
-{ 
-	protected 
-static 
-void 
-Main "
-(" #
-string# )
-[) *
-]* +
-args, 0
-)0 1
+
+static 
+class 
+Program 
+{ 
+public 
+static 
+void 
+Main 
+(  
+string  &
+[& '
+]' (
+args) -
+)- .
 { 	
 CreateHostBuilder 
 ( 
@@ -7710,18 +7711,18 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 (/ 0
 )0 1
 ;1 2
-} 	
-	protected 
-static 
-IHostBuilder %
-CreateHostBuilder& 7
-(7 8
-string8 >
-[> ?
-]? @
-argsA E
-)E F
-=>G I
+} 	
+public 
+static 
+IHostBuilder "
+CreateHostBuilder# 4
+(4 5
+string5 ;
+[; <
+]< =
+args> B
+)B C
+=>D F
 Host 
 .  
 CreateDefaultBuilder %

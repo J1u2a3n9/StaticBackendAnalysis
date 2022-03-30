@@ -550,7 +550,7 @@ mD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Models\S
 
   #
 
-% (    #% (   !, /1 4  & )+ .ı
+% (    #% (   !, /1 4  & )+ .É
 QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.cs
  
  
@@ -563,7 +563,7 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 
 
  	 
-     # )   %8 > * 1ê
+        &   "5 ; * 1ê
 `D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Services\ClientService.cs
  
  

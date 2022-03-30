@@ -781,12 +781,12 @@ mD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Models\S
  #Ã
 QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.cs
 
- 
+ 
 
- "
-, 0 "
-& 7 
-A E& *
+ 
+) - "
+# 4 
+> B& *
 * 4 »
 `D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Services\ClientService.cs
 
