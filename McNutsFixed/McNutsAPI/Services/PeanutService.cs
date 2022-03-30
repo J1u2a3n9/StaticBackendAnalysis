@@ -102,7 +102,7 @@ namespace McNutsAPI.Services
             var result = await _peanutRepository.SaveChangesAsync();
             if (!result)
             {
-                throw new ArgumentNullException("DataBase Error");
+                throw new ArgumentNullException("peanutId","DataBase Error");
             }
             return _mapper.Map<PeanutModel>(updatePeanut);
         }
