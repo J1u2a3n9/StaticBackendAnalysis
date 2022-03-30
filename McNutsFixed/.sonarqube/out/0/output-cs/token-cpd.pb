@@ -4156,7 +4156,7 @@ Exceptions 
 { 	
 } 	
 } 
-} ¯
+} ¹
 ZD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\Empty.cs
 	namespace 	
 	McNutsAPI
@@ -4167,44 +4167,44 @@ Exceptions 
 { 
 public 
 
-class 
-	EmptyBase 
-: 
-	Exception &
+class 
+EmptyException 
+:  !
+	Exception" +
 {		 
 public
 
- 
-	EmptyBase
+ 
+EmptyException
 
- 
+ 
 (
 
- 
+ 
 string
 
- 
+ $
 message
 
-  '
+% ,
 )
 
-' (
+, -
 :
 
-) *
+. /
 base
 
-+ /
+0 4
 (
 
-/ 0
+4 5
 message
 
-0 7
+5 <
 )
 
-7 8
+< =
 { 	
 } 	
 } 

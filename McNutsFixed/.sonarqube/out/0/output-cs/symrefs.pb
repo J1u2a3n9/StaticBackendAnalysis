@@ -481,16 +481,16 @@ iD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptio
 ; BŠ
 ZD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\Empty.cs
 
- 
+ 
 
 
 
- 
+ 
 
 
-  '
+% ,
 
-0 7ž
+5 <ž
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 
  *
