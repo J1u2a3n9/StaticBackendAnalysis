@@ -4156,7 +4156,7 @@ Exceptions 
 { 	
 } 	
 } 
-} §
+} ¯
 ZD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\Empty.cs
 	namespace 	
 	McNutsAPI
@@ -4167,48 +4167,48 @@ Exceptions 
 { 
 public 
 
-class 
-Empty 
-: 
-	Exception "
+class 
+	EmptyBase 
+: 
+	Exception &
 {		 
 public
 
- 
-Empty
+ 
+	EmptyBase
 
- 
+ 
 (
 
- 
+ 
 string
 
- 
+ 
 message
 
- #
+  '
 )
 
-# $
+' (
 :
 
-% &
+) *
 base
 
-' +
++ /
 (
 
-+ ,
+/ 0
 message
 
-, 3
+0 7
 )
 
-3 4
+7 8
 { 	
-} 	
-} 
-} ã
+} 	
+} 
+} ã
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 	namespace 	
 	McNutsAPI

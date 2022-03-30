@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 
 namespace McNutsAPI.Exceptions
 {
-    public class EmptyBase : Exception
+    public class EmptyException : Exception
     {
-        public EmptyBase(string message) : base(message)
+        public EmptyException(string message) : base(message)
         {
             
 
