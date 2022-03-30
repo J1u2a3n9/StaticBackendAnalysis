@@ -4208,59 +4208,56 @@ Exceptions 
 { 	
 } 	
 } 
-} õ
+} ×
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
-	namespace 	
-	McNutsAPI
+	namespace 	
+	McNutsAPI
  
-. 
+. 
 
-Exceptions 
-{ 
-public 
-
-class .
-"InsufficientAmountPeanutsException 3
-:4 5
-	Exception6 ?
-{		 
+Exceptions 
+{ 
+[		 
+Serializable		 
+]		 
 public
 
- .
+ 
+
+class
+
+ .
 "InsufficientAmountPeanutsException
 
- 1
-(
-
-1 2
-string
-
-2 8
-message
-
-9 @
-)
-
-@ A
+ 3
 :
 
-B C
-base
+4 5
+	Exception
 
-D H
-(
+6 ?
+,
 
-H I
-message
+? @
+ISerializable
 
-I P
-)
-
-P Q
-{ 	
-} 	
-} 
-} õ
+@ M
+{ 
+public .
+"InsufficientAmountPeanutsException 1
+(1 2
+string2 8
+message9 @
+)@ A
+:B C
+baseD H
+(H I
+messageI P
+)P Q
+{ 	
+} 	
+} 
+} õ
 tD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InvalidOperationClientException.cs
 	namespace 	
 	McNutsAPI

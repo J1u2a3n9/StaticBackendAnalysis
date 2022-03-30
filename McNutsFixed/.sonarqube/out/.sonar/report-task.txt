@@ -2,5 +2,5 @@ projectKey=McNutsBackend
 serverUrl=http://localhost:9000
 serverVersion=9.3.0.51899
 dashboardUrl=http://localhost:9000/dashboard?id=McNutsBackend
-ceTaskId=AX_YosTUZ3WtwsiqxO-A
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AX_YosTUZ3WtwsiqxO-A
+ceTaskId=AX_YuLk0Z3WtwsiqxO-B
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX_YuLk0Z3WtwsiqxO-B

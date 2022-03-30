@@ -7,7 +7,7 @@ using System.Runtime.Serialization;
 namespace McNutsAPI.Exceptions
 {
     [Serializable]
-    public class InsufficientAmountPeanutsException : Exception,ISerializable
+    public class InsufficientAmountPeanutsException : System.Exception
     {
         public InsufficientAmountPeanutsException(string message) : base(message)
         {

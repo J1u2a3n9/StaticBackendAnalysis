@@ -246,22 +246,25 @@ ZD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptio
 
  $
 
-0 4œ
+0 4Ä
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
  
  
  
  
- 	 
-  36 ?
+ 
+ 			 
 
- 
+ 
+
 
- 1
+ 
 
-2 8
+ 3
 
-D H¢
+6 ?
+
+@ M  12 8D H¢
 tD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InvalidOperationClientException.cs
  
  
