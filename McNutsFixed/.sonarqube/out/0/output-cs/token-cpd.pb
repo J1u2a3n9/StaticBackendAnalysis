@@ -7751,7 +7751,7 @@ UseStartup )
 ) 
 ; 
 } 
-} ˜U
+} çV
 `D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Services\ClientService.cs
 	namespace 	
 	McNutsAPI
@@ -7766,10 +7766,11 @@ UseStartup )
 :  
 IClientService! /
 { 
-private 
-IPeanutRepository !
-_peanutRepository" 3
-;3 4
+private 
+readonly 
+IPeanutRepository *
+_peanutRepository+ <
+;< =
 private 
 IMapper 
 _mapper 

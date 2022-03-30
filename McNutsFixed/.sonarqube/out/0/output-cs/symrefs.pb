@@ -791,7 +791,7 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 `D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Services\ClientService.cs
 
  Œ
-" 3   0"" #)) #** 055 0BB 0OO  1VV #WW #XX 0bb 0P
++ <   0"" #)) #** 055 0BB 0OO  1VV #WW #XX 0bb 0P
    &## :: %GG %PP VVD K
 
  
