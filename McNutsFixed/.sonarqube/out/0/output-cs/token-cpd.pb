@@ -4208,7 +4208,7 @@ Exceptions 
 { 	
 } 	
 } 
-} ×
+} Ð
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 	namespace 	
 	McNutsAPI
@@ -4232,16 +4232,16 @@ Exceptions 
  3
 :
 
-4 5
+4 5
+System
+
+6 <
+.
+
+< =
 	Exception
 
-6 ?
-,
-
-? @
-ISerializable
-
-@ M
+= F
 { 
 public .
 "InsufficientAmountPeanutsException 1

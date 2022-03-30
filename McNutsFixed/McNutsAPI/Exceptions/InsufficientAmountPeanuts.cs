@@ -9,7 +9,7 @@ namespace McNutsAPI.Exceptions
     [Serializable]
     public class InsufficientAmountPeanutsException : System.Exception
     {
-        public InsufficientAmountPeanutsException(string message) : base(message)
+        public InsufficientAmountPeanutsException(string message) 
         {
 
         }
