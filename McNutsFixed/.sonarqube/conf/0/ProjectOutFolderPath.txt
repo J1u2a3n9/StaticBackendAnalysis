@@ -1,1 +1,0 @@
-D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\.sonarqube\out\0
