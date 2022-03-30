@@ -5,10 +5,11 @@ using System.Threading.Tasks;
 
 namespace McNutsAPI.Exceptions
 {
-    public class Empty : Exception
+    public class EmptyBase : Exception
     {
-        public Empty(string message) : base(message)
+        public EmptyBase(string message) : base(message)
         {
+            
 
         }
     }
