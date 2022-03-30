@@ -4208,7 +4208,7 @@ Exceptions 
 { 	
 } 	
 } 
-} Ð
+} ü
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 	namespace 	
 	McNutsAPI
@@ -4249,11 +4249,6 @@ Exceptions 
 string2 8
 message9 @
 )@ A
-:B C
-baseD H
-(H I
-messageI P
-)P Q
 { 	
 } 	
 } 
@@ -7675,7 +7670,7 @@ ExpireDate #
 ;. /
 }0 1
 } 
-} ¨
+} ®
 
 QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.cs
 	namespace
@@ -7690,17 +7685,17 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 
 class 
 Program 
-{ 
-public 
-static 
-void 
-Main 
-(  
-string  &
-[& '
-]' (
-args) -
-)- .
+{ 
+	protected 
+static 
+void 
+Main "
+(" #
+string# )
+[) *
+]* +
+args, 0
+)0 1
 { 	
 CreateHostBuilder 
 ( 
@@ -7715,18 +7710,18 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 (/ 0
 )0 1
 ;1 2
-} 	
-public 
-static 
-IHostBuilder "
-CreateHostBuilder# 4
-(4 5
-string5 ;
-[; <
-]< =
-args> B
-)B C
-=>D F
+} 	
+	protected 
+static 
+IHostBuilder %
+CreateHostBuilder& 7
+(7 8
+string8 >
+[> ?
+]? @
+argsA E
+)E F
+=>G I
 Host 
 .  
 CreateDefaultBuilder %

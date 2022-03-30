@@ -490,15 +490,16 @@ ZD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptio
 
 % ,
 
-5 <ž
+5 <”
 nD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InsufficientAmountPeanuts.cs
 
 
 
  3
 
- 1
-9 @I P¤
+ 1
+
+9 @¤
 tD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Exceptions\InvalidOperationClientException.cs
 
  0
@@ -782,10 +783,10 @@ QD:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Program.
 
  
 
- 
-) - "
-# 4 
-> B& *
+ "
+, 0 "
+& 7 
+A E& *
 * 4 »
 `D:\CalidadAnalisisEstatico\StaticBackendAnalysis\McNutsFixed\McNutsAPI\Services\ClientService.cs
 
