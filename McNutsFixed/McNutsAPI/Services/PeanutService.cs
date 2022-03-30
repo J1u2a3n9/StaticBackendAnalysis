@@ -35,7 +35,7 @@ namespace McNutsAPI.Services
             {
                 return _mapper.Map<PeanutModel>(peanutEntity);
             }
-            throw new ArgumentNullException("Database Error");
+            throw new ArgumentNullException("newPeanut","DataBase Error");
         }
 
         public async Task<bool> DeletePeanutAsync(long peanutId)
